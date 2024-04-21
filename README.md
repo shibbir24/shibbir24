@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **advanced data science and AI technologies**
 
-- 💬 Ask me about **Data Science, AI, Healthcare NLP**
+- 💬 Ask me about **Data Science, AI, Health Informatics and NLP**
 
 - 📫 How to reach me **shibbir282@gmail.com**
 
