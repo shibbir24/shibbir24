@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibbir Ahmad</h1>
-<h3 align="center">A passionate data scientist from USA</h3>
+<h3 align="center">A passionate data scientist from United States of America</h3>
 
 - 🌱 I’m currently learning **advanced data science and AI technologies**
 
