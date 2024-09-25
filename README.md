@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **advanced data science and AI technologies**
 
-- 💬 Ask me about **Data Science, AI, Health Informatics and NLP**
+- 💬 Ask me about **Data Science, Bioinformatics and Natural Language Processing**
 
-- 📫 How to reach me **shibbir282@gmail.com**
+- 📫 Reach me at **shibbir282@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
