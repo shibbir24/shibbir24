@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hey there 👋! I’m Shibbir.<br>### Glad to see you here !<br>- I’m interested in Natural Language Processing and Health Informatics<br>- I’m currently learning Advanced AI and Data Science Techniques<br>- I’m looking to collaborate on projects related to AI and Data Science<br>- How to reach me: shibbir282@gmail.com<br>
+# Hey there 👋! I’m Shibbir.<br>
+
+### Glad to see you here !<br>- I’m interested in Natural Language Processing and Health Informatics<br>- I’m currently learning Advanced AI and Data Science Techniques<br>- I’m looking to collaborate on projects related to AI and Data Science<br>- How to reach me: shibbir282@gmail.com<br>
 
 
 ## 🌐 Socials:
