@@ -1,11 +1,12 @@
 # 💫 About Me:
-# Hey there 👋! I’m Shibbir.<br>
+# Hey there 👋! I’m Shibbir.
 
-## Glad to see you here !<br>
-- Passionate about Natural Language Processing and Health Informatics
-- I'm currently diving deep into Advanced AI and Data Science techniques
-- Always eager to collaborate on innovative AI and Data Science projects
-- Let's connect: shibbir282@gmail.com
+## Glad to see you here 😊!
+
+- 💡 🏥 Passionate about Natural Language Processing  and Health Informatics
+- 🤖 📊 I'm currently diving deep into Advanced AI and Data Science techniques
+- 🚀 Always eager to collaborate on innovative AI and Data Science projects
+- 📧 Let's connect: shibbir282@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibbir-ahmad24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shibbir-ahmad24) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ShibbirTalks) 
