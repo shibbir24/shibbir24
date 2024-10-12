@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 # Hey there 👋! I’m Shibbir.
 
 ## Glad to see you here 😊!
