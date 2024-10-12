@@ -2,7 +2,10 @@
 # Hey there 👋! I’m Shibbir.<br>
 
 ## Glad to see you here !<br>
-- I’m interested in Natural Language Processing and Health Informatics<br>- I’m currently learning Advanced AI and Data Science Techniques<br>- I’m looking to collaborate on projects related to AI and Data Science<br>- How to reach me: shibbir282@gmail.com<br>
+- I’m interested in Natural Language Processing and Health Informatics
+- I’m currently learning Advanced AI and Data Science Techniques
+- I’m looking to collaborate on projects related to AI and Data Science
+- How to reach me: shibbir282@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibbir-ahmad24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shibbir-ahmad24) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ShibbirTalks) 
