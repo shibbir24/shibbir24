@@ -4,8 +4,11 @@
 ## Glad to see you here 😊!
 
 💡 🏥 Passionate about Natural Language Processing  and Health Informatics
+
 🤖 📊 I'm currently diving deep into Advanced AI and Data Science techniques
+
 🚀 Always eager to collaborate on innovative AI and Data Science projects
+
 📧 Let's connect: shibbir282@gmail.com
 
 # 💻 Tech Stack:
