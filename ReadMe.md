@@ -1,11 +1,11 @@
 # 💫 About Me
-# Hey there 👋! I’m Shibbir.
+# Hey there 👋! I’m Shibbir Ahmad.
 
 ## Glad to see you here 😊!
 
-💡 🏥 Passionate about Natural Language Processing  and Health Informatics
+💡 🏥 Passionate about Product Analytics, Natural Language Processing and Health Informatics
 
-🤖 📊 I'm currently diving deep into Advanced AI and Data Science techniques
+🤖 📊 I'm currently diving deep into latest Generative AI and Data Science techniques
 
 🚀 Always eager to collaborate on innovative AI and Data Science projects
 
